@@ -1,0 +1,1 @@
+import ckeditor from '../node_modules/ckeditor';
